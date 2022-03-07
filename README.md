@@ -4,4 +4,5 @@
 
 
 過去の時間も入力可能です。
+
 No improvement in appearance. ;;
